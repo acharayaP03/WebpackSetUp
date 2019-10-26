@@ -1,0 +1,28 @@
+{
+  "name": "webpacksetup",
+  "version": "1.0.0",
+  "description": "setting up webpack workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack src/js/main.js --output dist/bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acharayaP03/WebpackSetUp.git"
+  },
+  "keywords": [
+    "Webpack",
+    "workflow"
+  ],
+  "author": "Trishten Ac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acharayaP03/WebpackSetUp/issues"
+  },
+  "homepage": "https://github.com/acharayaP03/WebpackSetUp#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
