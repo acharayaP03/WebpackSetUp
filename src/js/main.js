@@ -1,3 +1,4 @@
+import '../css/main.css'
 import { secretButton, secretParagraph } from "./input-elements";
 var showSecret = false;
 

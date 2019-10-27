@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/acharayaP03/WebpackSetUp#readme",
   "devDependencies": {
+    "css-loader": "^3.2.0",
+    "style-loader": "^1.0.0",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.9.0"
