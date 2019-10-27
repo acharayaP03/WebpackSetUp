@@ -25,3 +25,19 @@ function updatasecretParagraph(){
         secretParagraph.style.display = "none"
     }
 }
+
+// const outputParagraph = document.querySelector('#outputParagraph');
+
+// const outputRandomInt = () => {
+//     outputParagraph.textContent = RandomGenerator.randomInteger();
+// };
+
+// const outputRandomRange = () => {
+//     outputParagraph.textContent = RandomGenerator.randomRage(1, 500);
+// };
+
+// const buttonRandomInt = document.querySelector('#randomInt');
+// const buttonRandomRange = document.querySelector('#rabdomRange');
+
+// buttonRandomInt.addEventListener('click', outputRandomInt);
+// buttonRandomRange.addEventListener('click', outputRandomRange);
