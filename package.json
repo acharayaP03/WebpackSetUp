@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --entry ./src/js/main.js --output-filename ./dist/bundle.js --open",
-    "build": "webpack src/js/main.js --output dist/bundle.js --open"
+    "start": "webpack-dev-server  --open",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
